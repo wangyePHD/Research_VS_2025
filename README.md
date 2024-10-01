@@ -70,7 +70,7 @@ export HF_ENDPOINT=https://hf-mirror.com
 cd Research_VS_2025/DynamiCrafter
 mkdir -r checkpoints/dynamicrafter_512_v1
 cd Research_VS_2025
-mv DynamiCrafter_512/* Research_VS_2025/DynamiCrafter/checkpoints/dynamicrafter_512_v1
+mv DynamiCrafter_512/* DynamiCrafter/checkpoints/dynamicrafter_512_v1
 ```
 
 运行以下命令，即可完成animation video的生成。
